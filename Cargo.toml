@@ -7,3 +7,4 @@ description = "Simple terminal task manager"
 
 [dependencies]
 tuikit = { git = "https://github.com/michalorman/tuikit.git" }
+clap = { version = "3.1.6", features = ["derive"] }
