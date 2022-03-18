@@ -1,0 +1,9 @@
+[package]
+name = "sttm"
+version = "0.1.0"
+edition = "2021"
+authors = ["Michal <michal.orman@gmail.com>"]
+description = "Simple terminal task manager"
+
+[dependencies]
+tuikit = { git = "https://github.com/michalorman/tuikit.git" }
